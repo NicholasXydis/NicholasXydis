@@ -28,12 +28,6 @@ I'm currently a student at Concordia University. I love every aspect of technolo
 
 <br>
 
-### Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasXydis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br>
-
 ---
 
 ### 🤝 Let's Connect
