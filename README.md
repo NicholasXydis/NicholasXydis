@@ -4,7 +4,7 @@
 
 <br>
 
-I'm currently a student at Concordia University. My primary interests are full-stack development and cybersecurity. I also enjoy exploring low-level programming and cloud engineering. I love building projects, participating in hackathons, and spending my free time programming.
+I'm currently a student at Concordia University. My primary interests are full-stack development and cybersecurity. I also enjoy exploring low-level programming and game development. I love building projects, participating in hackathons, and spending my free time programming.
 
 
 
