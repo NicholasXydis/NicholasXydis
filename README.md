@@ -1,6 +1,6 @@
 ## Hello! I'm Nicholas Xydis 👋
 
-<img src="https://komarev.com/ghpvc/?username=NicholasXydis&color=1d4ed8&labelColor=1d4ed8&style=for-the-badge&label=PROFILE+VIEWS" height="28" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=NicholasXydis&color=1d4ed8&labelColor=1d4ed8&style=for-the-badge&label=PROFILE+VIEWS" height="28" alt="Profile Views"> 
 
 <br>
 
