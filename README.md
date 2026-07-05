@@ -33,4 +33,4 @@ I'm currently a student at Concordia University. My primary interests are full-s
 
 ### 🤝 Let's Connect
 
-Always interested in collaborating with other developers, contributing to open-source projects, and pursuing new opportunities. Feel free to get in touch.
+Always interested in collaborating with other developers, contributing to open-source projects, and pursuing new opportunities. Feel free to get in touch. 
