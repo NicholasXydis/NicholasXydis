@@ -4,7 +4,7 @@
 
 <br>
 
-I'm currently a student at Concordia University. My primary interests are full-stack development and cybersecurity. I also enjoy exploring low-level programming and game development. I love building projects, participating in hackathons, and spending my free time coding.
+I'm currently a student at Concordia University. My primary interests are Software Engineering, Cybersecurity, DevOps, and Artificial Intelligence. I love building projects, participating in hackathons, and spending my free time coding.
 
 
 
@@ -24,6 +24,7 @@ I'm currently a student at Concordia University. My primary interests are full-s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="50" alt="GitHub Actions" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" alt="Unity" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />&nbsp;
 </div>
@@ -34,4 +35,4 @@ I'm currently a student at Concordia University. My primary interests are full-s
 
 ### 🤝 Let's Connect
 
-Always interested in collaborating with other developers, contributing to open-source projects, and pursuing new opportunities. Feel free to get in touch.
+Always interested in collaborating with other developers, contributing to open-source projects, and pursuing new opportunities. Currently seeking internship opportunities in Software Engineering, Cybersecurity, DevOps, or AI/ML. Feel free to get in touch.
