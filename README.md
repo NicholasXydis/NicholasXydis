@@ -4,7 +4,7 @@
 
 <br>
 
-I'm currently a student at Concordia University. My primary interests are Software Engineering, Cybersecurity, DevOps, and Artificial Intelligence. I love building projects, participating in hackathons, and spending my free time coding.
+I'm currently a student at Concordia University. My primary interests are Software Engineering, Cybersecurity, DevOps, and Artificial Intelligence. I love building projects, participating in hackathons, and spending my free time coding. 
 
 
 
