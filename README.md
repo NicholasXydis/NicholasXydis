@@ -35,4 +35,4 @@ I'm currently a student at Concordia University. My primary interests are Softwa
 
 ### 🤝 Let's Connect
 
-Always interested in collaborating with other developers, contributing to open-source projects, and pursuing new opportunities. Seeking internship opportunities in Software Engineering, Cybersecurity, DevOps, or AI/ML. Feel free to get in touch. 
+Always interested in collaborating with other developers, contributing to open-source projects, and pursuing new opportunities. Seeking internship opportunities in Software Engineering, Cybersecurity, DevOps, or AI/ML. Feel free to get in touch.
